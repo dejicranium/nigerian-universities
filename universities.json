@@ -368,6 +368,12 @@
 		"location": "Katsina"
 	},
 	{
+		"name": "University of Ilorin",
+		"abbreviation": "UNILORIN",
+		"state": "Kwara",
+		"location": "Ilorin"
+	},
+	{
 		"name": "University of Lagos",
 		"abbreviation": "UNILAG",
 		"state": "Lagos",
