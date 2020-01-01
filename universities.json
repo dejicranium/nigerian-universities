@@ -1,0 +1,395 @@
+[
+	{
+		"name": "Adekunle Ajasin University",
+		"abbreviation": "AAUA",
+		"state": "Ondo",
+		"location": "Akungba-Akoko"
+	},
+	{
+		"name": "Federal University of Agriculture, Abeokuta Ogun",
+		"abbreviation": "FUNAAB",
+		"state": "Ogun",
+		"location": "FUNAAB"
+	},
+	{
+		"name": "Abia State University",
+		"abbreviation": "ABSU",
+		"state": "Abia",
+		"location": "Uturu"
+	},
+	{
+		"name": "Adekunle Ajasin University",
+		"abbreviation": "AAUA",
+		"state": "Ondo",
+		"location": "Akungba-Akoko"
+	},
+	{
+		"name": "Abia State University",
+		"abbreviation": "ABSU",
+		"state": "Abia",
+		"location": "Uturu"
+	},
+	{
+		"name": "Abia State University",
+		"abbreviation": "ABSU",
+		"state": "Abia",
+		"location": "Uturu"
+	},
+	{
+		"name": "Joseph Ayo Babalola University",
+		"abbreviation": "JABU",
+		"state": "Osun",
+		"location": "Ikeji-Arakeji"
+	},
+	{
+		"name": "Redeemer's University Nigeria",
+		"abbreviation" : "RUN",
+		"state": "Osun",
+		"location": "Ede"
+	},
+	{
+		"name": "Afe Babalola University",
+		"abbreviation": "ABUAD",
+		"state": "Ekiti",
+		"location": "Ado-Ekiti"
+	},
+	{
+		"name": "Akwa Ibom State University",
+		"abbreviation": "AKSU",
+		"state": "Akwa Ibom",
+		"location": "Uyo"
+	}, 
+	{
+		"name": "American University of Nigeria",
+		"abbreviation": "AUN",
+		"state": "Adamawa",
+		"location": "Yola"
+	},
+	{
+
+		"name": "Abubakar Tafawa Balewa University",
+		"abbreviation": "ATBU",
+		"state": "Bauchi",
+		"location": "Bauchi"
+	},
+	{
+		"name": "Abubakar Tafawa Balewa University",
+		"abbreviation": "ATBU",
+		"state": "Bauchi",
+		"location": "Bauchi"
+	},
+	{
+		"name": "Adamawa State University",
+		"abbreviation": "ADSU",
+		"state": "Adamawa",
+		"location": "Mubi"
+	},
+	{
+		"name": "Achievers University",
+		"abbreviation": "AC",
+		"state": "Ondo",
+		"location": "Owo"
+	},
+	{
+		"name": "Ahmadu Bello University",
+		"abbreviation": "ABU",
+		"state": "Kaduna",
+		"location": "Zaria"
+	},
+	{
+		"name": "Al-Hikmah University",
+		"abbreviation": "AHU",
+		"state": "Kwara",
+		"location": "Ilorin"
+	},
+	{
+		"name": "Ambrose Alli University",
+		"abbreviation": "AAU",
+		"state": "Edo",
+		"location": "Ekpoma"
+	},
+	{
+		"name": "Anambra State University",
+		"abbreviation": "ANSU",
+		"state": "Anambra",
+		"location": "Uli"
+	},
+	{
+		"name": "Ajayi Crowther University",
+		"abbreviation": "ACU",
+		"state": "Oyo",
+		"location": "Oyo"
+	},
+	{
+		"name": "Bayero University",
+		"abbreviation": "BUK",
+		"state": "Kano",
+		"location": "Kano"
+	},
+	{
+		"name": "Bayero University",
+		"abbreviation": "BU",
+		"state": "Ogun",
+		"location": "Ilishan-Remo"
+	},
+	{
+		"name": "Bells University of Technology",
+		"abbreviation": "BUT",
+		"state": "Ogun",
+		"location": "Ota"
+	},
+	{
+		"name": "Benson Idahosa University",
+		"abbreviation": "BIU",
+		"state": "Edo",
+		"location": "Benin City"
+	},
+	{
+		"name": "Benue State University",
+		"abbreviation": "BSU",
+		"state": "Benue",
+		"location": "Makurdi"
+	},
+	{
+		"name": "ECWA Bingham University",
+		"abbreviation": "BU",
+		"state": "Nassarawa",
+		"location": "New Karu"
+	},
+	{
+		"name": "Bowen University",
+		"abbreviation": "BU",
+		"state": "Osun",
+		"location": "Iwo"
+	},
+	{
+		"name": "Bukar Abba Ibrahim University",
+		"abbreviation": "YSU",
+		"state": "Yobe",
+		"location": "Damaturu"
+	},
+	{
+		"name": "CETEP City University",
+		"abbreviation": "CU",
+		"state": "Lagos",
+		"location": "Lagos"
+	},
+
+	{
+		"name": "Caleb University",
+		"abbreviation": "CUL",
+		"state": "Lagos",
+		"location": "Ikorodu"
+	},
+	{
+		"name": "Caritas University",
+		"abbreviation": "CU",
+		"state": "Enugu",
+		"location": "Enugu"
+	},
+	{
+		"name": "City University Lagos",
+		"abbreviation": "CU",
+		"state": "Lagos",
+		"location": "Yaba"
+	},
+	{
+		"name": "National Open University of Nigeria",
+		"abbreviation": "NOUN",
+		"state": "Lagos",
+		"location": "Victoria Island"
+	},
+	{
+		"name": "City University of Technology",
+		"abbreviation": "CUT",
+		"state": "Kaduna",
+		"location": "Kaduna"
+	},
+	{
+		"name": "Covenant University",
+		"abbreviation": "CU",
+		"state": "Ogun",
+		"location": "Ota"
+	},
+	{
+		"name": "Crawford University",
+		"abbreviation": "CU",
+		"state": "Ogun",
+		"location": "Igbesa"
+	},
+	{
+		"name": "Crescent University",
+		"abbreviation": "CU",
+		"state": "Ogun",
+		"location": "Abeokuta"
+	},
+	{
+		"name": "Cross River University of Technology",
+		"abbreviation": "CRUTECH",
+		"state": "Cross River",
+		"location": "Calabar"
+	},
+	{
+		"name": "Delta State University",
+		"abbreviation": "DELSU",
+		"state": "Delta",
+		"location": "Abraka"
+	},	
+	{
+		"name": "Ebonyi State University",
+		"abbreviation": "EBSU",
+		"state": "Ebonyi",
+		"location": "Abakaliki"
+	},
+	{
+		"name": "Evangel University, Akaeze",
+		"abbreviation": "EUA",
+		"state": "Ebonyi",
+		"location": "Akaeze"
+	},
+	{
+		"name": "Elizade University",
+		"abbreviation": "",
+		"state": "Ondo",
+		"location": "Ilara-Mokin"
+	},
+	{
+		"name": "Fountain University, Osogbo",
+		"abbreviation": "FUO",
+		"state": "Osun",
+		"location": "Osogbo"
+	},
+	{
+		"name": "Federal University, Dutsin-Ma",
+		"abbreviation": "FUDM",
+		"state": "Katsina",
+		"location": "Katsina"
+	},
+	{
+		"name": "Federal University of Technology, Akure",
+		"abbreviation": "FUTA",
+		"state": "Ondo",
+		"location": "Akure"
+	},
+	{
+		"name": "Federal University Ndufe Alike, Ikwo",
+		"abbreviation": "FUNAI",
+		"state": "Ikwo",
+		"location": "Ikwo"
+	},
+	{
+		"name": "Gregory University",
+		"abbreviation": "",
+		"state": "Abia",
+		"location": "Uturu"
+	},
+	{
+		"name": "Godfrey Okoye University",
+		"abbreviation": "GUO",
+		"state": "Enugu",
+		"location": "Enugu"
+	},
+	{
+		"name": "Igbinedion University",
+		"abbreviation": "IOU",
+		"state": "Edo",
+		"location": "Okada"
+	},
+	{
+		"name": "Koladaisi University",
+		"abbreviation": "KU",
+		"state": "Oyo",
+		"location": "Ibadan"
+	},
+	{
+		"name": "Oduduwa University, Osun",
+		"abbreviation": "OUI",
+		"state": "Ipetumodu",
+		"location": "Ile-Ife"
+	},
+	{
+		"name": "Landmark University, Kwara",
+		"abbreviation": "LU",
+		"state": "Kwara",
+		"location": "Omu-Aran"
+	},
+	{
+		"name": "Michael and Cecilia Ibru University",
+		"abbreviation": "MCIU",
+		"state": "Delta",
+		"location": "Agbara-Otor"
+	},
+	{
+		"name": "Lagos State University",
+		"abbreviation": "LASU",
+		"state": "Lagos",
+		"location": "Ojo"
+	},
+	{
+		"name": "Nigerian Turkish Nile University",
+		"abbreviation": "NTNU",
+		"state": "FCT",
+		"location": "Abuja"
+	},
+	{
+		"name": "Taraba State University",
+		"abbreviation": "",
+		"state": "Taraba",
+		"location": "Jalingo"
+	},
+	{
+		"name": "University of Benin",
+		"abbreviation": "UNIBEN",
+		"state": "Edo",
+		"location": "Benin City"
+	},
+	{
+		"name": "University of Calabar",
+		"abbreviation": "UNICAL",
+		"state": "Cross River",
+		"location": "Calabar"
+	},
+	{
+		"name": "University of Ibadan",
+		"abbreviation": "UI",
+		"state": "Oyo",
+		"location": "Ibadan"
+	},
+	{
+		"name": "University of Ibadan",
+		"abbreviation": "UI",
+		"state": "Oyo",
+		"location": "Ibadan"
+	},
+	{
+		"name": "Umaru Musa Yar'adua University Katsina",
+		"abbreviation": "UMYU",
+		"state": "Katsina",
+		"location": "Katsina"
+	},
+	{
+		"name": "University of Lagos",
+		"abbreviation": "UNILAG",
+		"state": "Lagos",
+		"location": "Lagos"
+	},
+	{
+		"name": "University of Port Harcourt",
+		"abbreviation": "UNIPORT",
+		"state": "Rivers",
+		"location": "Port Harcourt"
+	},
+	{
+		"name": "University of Nigeria, Nsukka",
+		"abbreviation": "UNN",
+		"state": "Enugu",
+		"location": "Nsukka"
+	},
+	{
+		"name": "Veritas University (Catholic University of Nigeria)",
+		"abbreviation": "VUNA",
+		"state": "Abuja",
+		"location": "Bwari"
+	}
+]
+

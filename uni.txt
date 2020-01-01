@@ -1,0 +1,44 @@
+
+Bells University of Technology	Ogun	BUT	Ota	Private	2004
+Benson Idahosa University	Edo	BIU	Benin City	Private	2002
+Benue State University	Benue	BSU	Makurdi	State	1992
+ECWA Bingham University	Nassarawa	BU	New Karu	Private	2005
+Bowen University	Osun	BU	Iwo	Private	2002
+Bukar Abba Ibrahim University	Yobe	YSU	Damaturu	State	2006
+CETEP City University	Lagos	CU	Lagos	Private	2005
+Caleb University	Lagos	CUl	Ikorodu	Private	2008
+Caritas University	Enugu	CU	Enugu	Private	2004
+City University	Lagos	CU	Yaba	Private	
+National Open University of Nigeria	Lagos	NOUN	Victoria Island	Federal	1983
+City University of Technology	Kaduna	CUT	Kaduna	Private	1956
+Covenant University	Ogun	CU	Ota	Private	2002
+Crawford University	Ogun	CU	Faith City, Igbesa	Private	2005
+Crawford University	Ekiti	CU	Oye-Ekiti Campus	Private	2005
+Crescent University	Ogun	CU	Abeokuta	Private	2005
+Cross River University of Technology	Cross River	CRUTECH	Ekpo-Abasi, Calabar	State	2002
+Delta State University, Abraka	Delta	DELSU	Abraka	State	1992
+Ebonyi State University	Ebonyi	EBSU	Abakaliki	State	1996
+Evangel University, Akaeze	Ebonyi	EUA	Akaeze	Private	2012
+Elizade University	Ondo		Ilara-Mokin	Private	2012
+Fountain University, Osogbo	Osun	FUO	Osun	Private	2007
+Federal University, Dutsin-Ma	Katsina	FUDM	Katsina	Federal	2011
+Federal University of Technology Akure	Ondo	FUTA	Akura	Federal	1981
+Federal University Ndufe Alike, Ikwo	Ikwo	FUNAI	Ikwo	Federal	2011
+Gregory University	Abia		Uturu	Private	2012
+Godfrey Okoye University	Enugu	GOU	Enugu	Private	2009
+Igbinedion University	Edo	IUO	Okada	Private	1999
+Koladaisi University	Oyo	KU	Ibadan, Oyo	State	2015
+Oduduwa University	Osun	OUI	Ipetumodu, Ile-Ife	State	2009
+Landmark University	Kwara	LU	Omu-Aran	Private	2011
+Michael and Cecilia Ibru University	Delta	MCIU	Agbara-Otor, Ughelli North	Private	2015
+Lagos State University	Lagos	LASU	Ojo	State	1983
+Nigerian Turkish Nile University	FCT	NTNU	Abuja	Private	1998
+Taraba State University	Taraba		Jalingo	State	2011
+University of Benin	Edo	UNIBEN	Benin City	Federal	1970
+University of Calabar	Cross River	UNICAL	Calabar	Federal	1975
+University of Ibadan	Oyo	UI	Ibadan	Federal	1948
+Umaru Musa Yar'adua University Katsina	Katsina	UMYU	Katsina	State	2006
+University of Lagos	Lagos	UNILAG	Lagos	Federal	1962
+University of Port Harcourt	Rivers	UNIPORT	Port Harcourt	Federal	1975
+University of Nigeria, Nsukka	Enugu	UNN	Nsukka	Federal	1955
+Veritas University (Catholic University of Nigeria) Abuja	Abuja	VUNA	Bwari
