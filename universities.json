@@ -3,399 +3,436 @@
 		"name": "Adekunle Ajasin University",
 		"abbreviation": "AAUA",
 		"state": "Ondo",
-		"location": "Akungba-Akoko"
+		"city": "Akungba-Akoko"
 	},
 	{
 		"name": "Federal University of Agriculture, Abeokuta Ogun",
 		"abbreviation": "FUNAAB",
 		"state": "Ogun",
-		"location": "FUNAAB"
+		"city": "FUNAAB"
 	},
 	{
 		"name": "Abia State University",
 		"abbreviation": "ABSU",
 		"state": "Abia",
-		"location": "Uturu"
+		"city": "Uturu"
 	},
 	{
 		"name": "Adekunle Ajasin University",
 		"abbreviation": "AAUA",
 		"state": "Ondo",
-		"location": "Akungba-Akoko"
+		"city": "Akungba-Akoko"
 	},
 	{
 		"name": "Abia State University",
 		"abbreviation": "ABSU",
 		"state": "Abia",
-		"location": "Uturu"
+		"city": "Uturu"
 	},
 	{
 		"name": "Abia State University",
 		"abbreviation": "ABSU",
 		"state": "Abia",
-		"location": "Uturu"
+		"city": "Uturu"
 	},
 	{
 		"name": "Joseph Ayo Babalola University",
 		"abbreviation": "JABU",
 		"state": "Osun",
-		"location": "Ikeji-Arakeji"
+		"city": "Ikeji-Arakeji"
 	},
 	{
 		"name": "Redeemer's University Nigeria",
 		"abbreviation" : "RUN",
 		"state": "Osun",
-		"location": "Ede"
+		"city": "Ede"
 	},
 	{
 		"name": "Afe Babalola University",
 		"abbreviation": "ABUAD",
 		"state": "Ekiti",
-		"location": "Ado-Ekiti"
+		"city": "Ado-Ekiti",
+		"latitude": "7.6110",
+		"longitude": "5.2571"
 	},
 	{
 		"name": "Akwa Ibom State University",
 		"abbreviation": "AKSU",
 		"state": "Akwa Ibom",
-		"location": "Uyo"
+		"city": "Uyo"
 	}, 
 	{
 		"name": "American University of Nigeria",
 		"abbreviation": "AUN",
 		"state": "Adamawa",
-		"location": "Yola"
+		"city": "Yola"
 	},
 	{
 
 		"name": "Abubakar Tafawa Balewa University",
 		"abbreviation": "ATBU",
 		"state": "Bauchi",
-		"location": "Bauchi"
+		"city": "Bauchi"
 	},
 	{
 		"name": "Abubakar Tafawa Balewa University",
 		"abbreviation": "ATBU",
 		"state": "Bauchi",
-		"location": "Bauchi"
+		"city": "Bauchi"
 	},
 	{
 		"name": "Adamawa State University",
 		"abbreviation": "ADSU",
 		"state": "Adamawa",
-		"location": "Mubi"
+		"city": "Mubi"
 	},
 	{
 		"name": "Achievers University",
 		"abbreviation": "AC",
 		"state": "Ondo",
-		"location": "Owo"
+		"city": "Owo"
 	},
 	{
 		"name": "Ahmadu Bello University",
 		"abbreviation": "ABU",
 		"state": "Kaduna",
-		"location": "Zaria"
+		"city": "Zaria"
 	},
 	{
 		"name": "Al-Hikmah University",
 		"abbreviation": "AHU",
 		"state": "Kwara",
-		"location": "Ilorin"
+		"city": "Ilorin"
 	},
 	{
 		"name": "Ambrose Alli University",
 		"abbreviation": "AAU",
 		"state": "Edo",
-		"location": "Ekpoma"
+		"city": "Ekpoma"
 	},
 	{
 		"name": "Anambra State University",
 		"abbreviation": "ANSU",
 		"state": "Anambra",
-		"location": "Uli"
+		"city": "Uli"
 	},
 	{
 		"name": "Ajayi Crowther University",
 		"abbreviation": "ACU",
 		"state": "Oyo",
-		"location": "Oyo"
+		"city": "Oyo"
+	},
+	{
+		"name": "Babcock University",
+		"abbreviation": "BU",
+		"state": "Ogun",
+		"city": "Ikenne",
+		"latitude": "6.8940",
+		"longitude": "3.7187"
 	},
 	{
 		"name": "Bayero University",
 		"abbreviation": "BUK",
 		"state": "Kano",
-		"location": "Kano"
+		"city": "Kano"
 	},
 	{
 		"name": "Bayero University",
 		"abbreviation": "BU",
 		"state": "Ogun",
-		"location": "Ilishan-Remo"
+		"city": "Ilishan-Remo"
 	},
 	{
 		"name": "Bells University of Technology",
 		"abbreviation": "BUT",
 		"state": "Ogun",
-		"location": "Ota"
+		"city": "Ota"
 	},
 	{
 		"name": "Benson Idahosa University",
 		"abbreviation": "BIU",
 		"state": "Edo",
-		"location": "Benin City"
+		"city": "Benin City"
 	},
 	{
 		"name": "Benue State University",
 		"abbreviation": "BSU",
 		"state": "Benue",
-		"location": "Makurdi"
+		"city": "Makurdi"
 	},
 	{
 		"name": "ECWA Bingham University",
 		"abbreviation": "BU",
 		"state": "Nassarawa",
-		"location": "New Karu"
+		"city": "New Karu"
 	},
 	{
 		"name": "Bowen University",
 		"abbreviation": "BU",
 		"state": "Osun",
-		"location": "Iwo"
+		"city": "Iwo"
 	},
 	{
 		"name": "Bukar Abba Ibrahim University",
 		"abbreviation": "YSU",
 		"state": "Yobe",
-		"location": "Damaturu"
+		"city": "Damaturu"
 	},
 	{
 		"name": "CETEP City University",
 		"abbreviation": "CU",
 		"state": "Lagos",
-		"location": "Lagos"
+		"city": "Lagos"
 	},
 
 	{
 		"name": "Caleb University",
 		"abbreviation": "CUL",
 		"state": "Lagos",
-		"location": "Ikorodu"
+		"city": "Ikorodu"
 	},
 	{
 		"name": "Caritas University",
 		"abbreviation": "CU",
 		"state": "Enugu",
-		"location": "Enugu"
+		"city": "Enugu"
 	},
 	{
 		"name": "City University Lagos",
 		"abbreviation": "CU",
 		"state": "Lagos",
-		"location": "Yaba"
+		"city": "Yaba"
 	},
 	{
 		"name": "National Open University of Nigeria",
 		"abbreviation": "NOUN",
 		"state": "Lagos",
-		"location": "Victoria Island"
+		"city": "Victoria Island"
 	},
 	{
 		"name": "City University of Technology",
 		"abbreviation": "CUT",
 		"state": "Kaduna",
-		"location": "Kaduna"
+		"city": "Kaduna"
 	},
 	{
 		"name": "Covenant University",
 		"abbreviation": "CU",
 		"state": "Ogun",
-		"location": "Ota"
+		"city": "Ota",
+		"latitude": "6.6726",
+		"longitude": "3.1612"
 	},
 	{
 		"name": "Crawford University",
 		"abbreviation": "CU",
 		"state": "Ogun",
-		"location": "Igbesa"
+		"city": "Igbesa"
 	},
 	{
 		"name": "Crescent University",
 		"abbreviation": "CU",
 		"state": "Ogun",
-		"location": "Abeokuta"
+		"city": "Abeokuta"
 	},
 	{
 		"name": "Cross River University of Technology",
 		"abbreviation": "CRUTECH",
 		"state": "Cross River",
-		"location": "Calabar"
+		"city": "Calabar"
 	},
 	{
 		"name": "Delta State University",
 		"abbreviation": "DELSU",
 		"state": "Delta",
-		"location": "Abraka"
+		"city": "Abraka",
+		"latitude": "33.7454",
+		"longitude": "90.7355"
 	},	
 	{
 		"name": "Ebonyi State University",
 		"abbreviation": "EBSU",
 		"state": "Ebonyi",
-		"location": "Abakaliki"
+		"city": "Abakaliki"
 	},
 	{
 		"name": "Evangel University, Akaeze",
 		"abbreviation": "EUA",
 		"state": "Ebonyi",
-		"location": "Akaeze"
+		"city": "Akaeze"
 	},
 	{
 		"name": "Elizade University",
 		"abbreviation": "",
 		"state": "Ondo",
-		"location": "Ilara-Mokin"
+		"city": "Ilara-Mokin"
 	},
 	{
 		"name": "Fountain University, Osogbo",
 		"abbreviation": "FUO",
 		"state": "Osun",
-		"location": "Osogbo"
+		"city": "Osogbo"
 	},
 	{
 		"name": "Federal University, Dutsin-Ma",
 		"abbreviation": "FUDM",
 		"state": "Katsina",
-		"location": "Katsina"
+		"city": "Katsina"
 	},
 	{
 		"name": "Federal University of Technology, Akure",
 		"abbreviation": "FUTA",
 		"state": "Ondo",
-		"location": "Akure"
+		"city": "Akure"
 	},
 	{
 		"name": "Federal University Ndufe Alike, Ikwo",
 		"abbreviation": "FUNAI",
 		"state": "Ikwo",
-		"location": "Ikwo"
+		"city": "Ikwo"
 	},
 	{
 		"name": "Gregory University",
 		"abbreviation": "",
 		"state": "Abia",
-		"location": "Uturu"
+		"city": "Uturu"
 	},
 	{
 		"name": "Godfrey Okoye University",
 		"abbreviation": "GUO",
 		"state": "Enugu",
-		"location": "Enugu"
+		"city": "Enugu"
 	},
 	{
 		"name": "Igbinedion University",
 		"abbreviation": "IOU",
 		"state": "Edo",
-		"location": "Okada"
+		"city": "Okada"
 	},
 	{
 		"name": "Koladaisi University",
 		"abbreviation": "KU",
 		"state": "Oyo",
-		"location": "Ibadan"
+		"city": "Ibadan"
+	},
+	{
+		"name": "Ladoke Akintola University of Technology",
+		"abbreviation": "LAUTECH",
+		"state": "Oyo",
+		"city": "Ogbomoso",
+		"latitude": "8.142165",
+		"longitude": "4.245186"
 	},
 	{
 		"name": "Oduduwa University, Osun",
 		"abbreviation": "OUI",
 		"state": "Ipetumodu",
-		"location": "Ile-Ife"
+		"city": "Ile-Ife"
+	},
+	{
+		"name": "Obafemi Awolowo University",
+		"abbreviation": "OAU",
+		"state": "Osun",
+		"city": "Ile-Ife",
+		"latitude": "7.5165",
+		"longitude": "4.5286"
+
 	},
 	{
 		"name": "Landmark University, Kwara",
 		"abbreviation": "LU",
 		"state": "Kwara",
-		"location": "Omu-Aran"
+		"city": "Omu-Aran"
 	},
 	{
 		"name": "Michael and Cecilia Ibru University",
 		"abbreviation": "MCIU",
 		"state": "Delta",
-		"location": "Agbara-Otor"
+		"city": "Agbara-Otor"
 	},
 	{
 		"name": "Lagos State University",
 		"abbreviation": "LASU",
 		"state": "Lagos",
-		"location": "Ojo"
+		"city": "Ojo"
 	},
 	{
 		"name": "Nigerian Turkish Nile University",
 		"abbreviation": "NTNU",
 		"state": "FCT",
-		"location": "Abuja"
+		"city": "Abuja"
 	},
 	{
 		"name": "Taraba State University",
 		"abbreviation": "",
 		"state": "Taraba",
-		"location": "Jalingo"
+		"city": "Jalingo"
 	},
 	{
 		"name": "University of Benin",
 		"abbreviation": "UNIBEN",
 		"state": "Edo",
-		"location": "Benin City"
+		"city": "Benin City",
+		"latitude": "6.3931",
+		"longitude": "5.6195"
 	},
 	{
 		"name": "University of Calabar",
 		"abbreviation": "UNICAL",
 		"state": "Cross River",
-		"location": "Calabar"
+		"city": "Calabar"
 	},
 	{
 		"name": "University of Ibadan",
 		"abbreviation": "UI",
 		"state": "Oyo",
-		"location": "Ibadan"
-	},
-	{
-		"name": "University of Ibadan",
-		"abbreviation": "UI",
-		"state": "Oyo",
-		"location": "Ibadan"
+		"city": "Ibadan",
+		"latitude": "7.4443",
+		"longitude": "3.8995"
 	},
 	{
 		"name": "Umaru Musa Yar'adua University Katsina",
 		"abbreviation": "UMYU",
 		"state": "Katsina",
-		"location": "Katsina"
+		"city": "Katsina"
 	},
 	{
 		"name": "University of Ilorin",
 		"abbreviation": "UNILORIN",
 		"state": "Kwara",
-		"location": "Ilorin"
+		"city": "Ilorin",
+		"latitude":"8.4912",
+		"longitude":"4.5950"
+
 	},
 	{
 		"name": "University of Lagos",
 		"abbreviation": "UNILAG",
 		"state": "Lagos",
-		"location": "Lagos"
+		"city": "Lagos",
+		"latitude":"6.5151",
+		"longitude":"3.3886"
 	},
 	{
 		"name": "University of Port Harcourt",
 		"abbreviation": "UNIPORT",
 		"state": "Rivers",
-		"location": "Port Harcourt"
+		"city": "Port Harcourt"
 	},
 	{
 		"name": "University of Nigeria, Nsukka",
 		"abbreviation": "UNN",
 		"state": "Enugu",
-		"location": "Nsukka"
+		"city": "Nsukka",
+		"latitude": "6.8645",
+		"longitude": "7.4083"
+
 	},
 	{
 		"name": "Veritas University (Catholic University of Nigeria)",
 		"abbreviation": "VUNA",
 		"state": "Abuja",
-		"location": "Bwari"
+		"city": "Bwari"
 	}
 ]
 
