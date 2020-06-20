@@ -433,6 +433,13 @@
 		"abbreviation": "VUNA",
 		"state": "Abuja",
 		"city": "Bwari"
-	}
+	},
+	{
+		"name": "University of Abuja",
+		"abbreviation": "UNIABUJA",
+		"state": "Abuja",
+		"city": "Gwagwalada"
+	},
+	
 ]
 
